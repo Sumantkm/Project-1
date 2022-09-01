@@ -13,4 +13,4 @@
 ***
 ## Project-Screenshot :
 
-![Project-1/Modelling home page](./Project-ss/Modelling home page ss.PNG)
+![Project-1/Modelling home page](./Project-ss/Modelling_home_page_ss.PNG)
